@@ -5,7 +5,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
-
+https://docs.google.com/document/d/1tXBeX2qpU57_ZHOKKu2xDnX8m2gAEmVj6P3kbrqBujY/edit
 ### Overview
 Include overview here
 ### Features
@@ -16,3 +16,4 @@ Include Technologies here
 Include what you will need to learn here
 ### Project Tracker
 Link to your Trello board here
+
