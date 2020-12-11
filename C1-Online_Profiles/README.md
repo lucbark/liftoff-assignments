@@ -11,7 +11,7 @@ https://github.com/lucbark
 
 
 ### LinkedIn
-www.linkedin.com/in/lucas-barker-37195111
+https://www.linkedin.com/in/lucas-barker/
 
 
 ### Resume
